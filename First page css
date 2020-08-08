@@ -1,0 +1,35 @@
+
+body{
+    background-color: black;
+}
+p{color: white;
+font-size: 20px;
+text-align: center;}
+
+  
+  ul{
+    color: white;
+    text-align: left;
+    font-size: 20px;}
+  
+
+
+.btn btn-lg btn-secondary{
+    text-align: center
+    ;
+}
+.pxik{
+    overflow: hidden;
+    height: 245px;
+}
+
+
+.logo{
+    width: 50% ;
+    float: left;
+ 
+}
+H2{
+    color: white;
+}
+
