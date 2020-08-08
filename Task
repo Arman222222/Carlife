@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <title> Dropdown list </title>
+      <script src="exercise1.js"></script>
+    </head>
+<body>
+            <!---Write a JavaScript program to count and display the items of a dropdown list-->
+
+    <div id="myfirstdiv">
+        <h2> Model </h2>
+        <select id="Model">
+            <option value="BMW"> BMW </option>
+            <option value="AUDI"> AUDI </option>
+            <option value="OPEL"> OPEL </option>
+            <option value="NISSAN"> NISSAN </option>
+        </select>
+
+        <h2> Year </h2>
+        <select id="Year">
+            <option value="2020"> 2020 </option>
+            <option value="2019"> 2019 </option>
+            <option value="2018"> 2018 </option>
+            <option value="2017"> 2017 </option>
+        </select>
+    </div>
+<input type="submit" value="see result" onclick="dropdown_list()">
+
+
+ <!--. Write a JavaScript program to set the background color of a paragraph from an input type= color.-->
+
+</div id="task">
+    <h1> <p id="mycolor"> MY COLOR</p> </h1>
+     <input type="color" id="mycolor2" >
+     <input type="button" value="click,if you want to change color " onclick="changing()"></button>
+</div>
+<br></br>
+ <!--Write a JavaScript function to get the value of the "a" href attribute and change it to another one.-->
+<div>
+ <a id="link" href="https://www.facebook.com/">click me!!!</a>
+ <button onclick="change_link()">change link</button>
+</div>
+ 
+<!--Write a JavaScript function to add "LI" to a list element "UL"-->
+
+<onload="function1();">
+    <ul id="list">
+        <li id="1"> Height </li>
+        <li id="2"> Weight </li>
+        <li id="3"> Age </li>
+        </ul>
+
+
+<!--Write a JavaScript function that would set the even li tags font color to red and the odd to green in ul-->
+
+<ul>
+    <li>BMW</li>
+    <li>AUDI</li>
+
+    <li>OPEL</li>
+    <li>NISSAN</li>
+
+    <li>KIA</li>
+    <li>FORD</li>
+
+    <input id="font_color" type="button" value="change" onclick="font_color()">
+</ul>
+</div>
+
+<div id="w_h" onload="width_height()" onresize="width_height()">
+
+
+    <!-- Write a JavaScript program to get the width and height of the window (any time the window is resized-->
+    <input id="width_height" type="button" value="show width and height of the window" onclick="width_height()">
+
+</div>
+
+</body>
+</html>
