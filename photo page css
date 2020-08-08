@@ -1,0 +1,23 @@
+
+  h1{
+      color: aqua;
+      font-style: italic;
+      font-size: 25px;
+      word-spacing: 5px  
+
+ }
+ ul{
+    color:white;
+    text-align: left;
+    font-size: 16px;}
+
+
+    .list-unstyled{
+        font-size: 25px;
+    }
+
+.bg-black{
+    background-color: black !important;
+}
+
+
