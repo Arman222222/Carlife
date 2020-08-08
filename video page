@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<title> Detailing Yerevan </title>
+<link rel="stylesheet" href="css/video.css">
+<link rel="icon" href="img/icon.jpg">
+ </head>
+ <body>
+    <div class="collapse bg-dark" id="navbarHeader">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-8 col-md-7 py-4">
+              <h4 class="text-white">Ձեզ ենք առաջարկում</h4>
+              <p class="text-muted"><ul>
+                <li>Մեքենայի թափքի գունավոր և պաշտպանիչ թաղանթապատում Llumar-USA,Suntek-USA,Hexis-France տրվում է 5 տարի երաշխիքային սապասարկում։</li>
+                <li>Կերամիկապատում Ճապոնական ULTRA և Ամերիկյան SystemX ֆիրմայի կերամիկաներով,տրվում է 2տարի երաշխիք:</li>
+                 </ul>
+            </p>
+            </div>
+            <div class="col-sm-4 offset-md-1 py-4">
+              <ul class="list-unstyled">
+                <li><a href="https://www.facebook.com/CarlifeYerevan" class="text-white">Like on Facebook</a></li>
+                <li><a href="https://www.instagram.com/detailing_yerevan/" class="text-white">Follow on Instagam</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container d-flex justify-content-between">
+          <a href="#" class="navbar-brand d-flex align-items-center">
+            <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-telephone-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M2.267.98a1.636 1.636 0 0 1 2.448.152l1.681 2.162c.309.396.418.913.296 1.4l-.513 2.053a.636.636 0 0 0 .167.604L8.65 9.654a.636.636 0 0 0 .604.167l2.052-.513a1.636 1.636 0 0 1 1.401.296l2.162 1.681c.777.604.849 1.753.153 2.448l-.97.97c-.693.693-1.73.998-2.697.658a17.47 17.47 0 0 1-6.571-4.144A17.47 17.47 0 0 1 .639 4.646c-.34-.967-.035-2.004.658-2.698l.97-.969z"/>
+              </svg>
+            <H2>099222264</H2>    
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </div>
+   </header>
+   <br>   
+<div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+            
+          <p class="card-text mb-auto">MERCEDES-AMG GTS<br>Մեքենայի թափքը թաղանթապատվել է գունավոր թաղանթով։<br>Hexis-France </p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+            <video  width="350" height="250" controls="controls" loop autoplay>
+                <source src="video/videogts.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+                </video>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">      
+          <p class="mb-auto">Bentley Continental<br> Flying Spur<br>Մեքենայի թափքը թաղանթապատվել է գունավոր թաղանթով։</p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+            <video  width="350" height="250" controls="controls" loop autoplay>
+                <source src="video/bent.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+                </video>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+     
+<div class="row mb-2">
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+         
+          <p class="card-text mb-auto">MERCEDES S500 W222<br>Մեքենայի թափքը թաղանթապատվել է պաշտպանիչ թաղանթով և կերամիկապատվել:</p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <video  width="350" height="250" controls="controls" loop autoplay>
+            <source src="video/w222.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+            </video>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">    
+          <p class="mb-auto">LEXUS LX 570 BLACK VISION<br>Մեքենայի թափքը թաղանթապատվել է պաշտպանիչ թաղանթով:</p>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <video  width="350" height="250" controls="controls" loop autoplay>
+            <source src="video/lx.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+            </video>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+
+ 
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="Arman.html">Գլխավոր էջ</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="carlife.html">Նկարներ <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="Arman2.html">Տեսանյութեր</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link " href="kap.html" tabindex="-1" aria-disabled="true">Մեր մասին</a>
+        </li>
+      </ul>
+      </form>
+    </div>
+  </nav>
+  </body>
+            
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.js"></script></body>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+</html>
