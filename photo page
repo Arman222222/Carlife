@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>CARLIFE YEREVAN</title>
+    <link rel="icon" href="img/icon.jpg">
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/album/">
+    <link rel="stylesheet" href="css/carlifestyle.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+       <!-- Custom styles for this template -->
+    <link href="album.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+  <div class="collapse bg-dark" id="navbarHeader">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-md-7 py-4">
+          <h4 class="text-white">Ձեզ ենք առաջարկում</h4>
+          <p class="text-muted"><ul>
+            <li>Մեքենայի թափքի գունավոր և պաշտպանիչ թաղանթապատում Llumar-USA,Suntek-USA,Hexis-France տրվում է 5 տարի երաշխիքային սապասարկում։</li>
+             <li>Կերամիկապատում Ճապոնական ULTRA և Ամերիկյան SystemX ֆիրմայի կերամիկաներով,տրվում է 2տարի երաշխիք:</li>
+             </ul>
+        </p>
+        </div>
+        <div class="col-sm-4 offset-md-1 py-4">
+          <ul class="list-unstyled">
+            <li><a href="https://www.facebook.com/CarlifeYerevan" class="text-white">Like on Facebook</a></li>
+            <li><a href="https://www.instagram.com/detailing_yerevan/" class="text-white">Follow on Instagam</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container d-flex justify-content-between">
+      <a href="#" class="navbar-brand d-flex align-items-center">
+        <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-telephone-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M2.267.98a1.636 1.636 0 0 1 2.448.152l1.681 2.162c.309.396.418.913.296 1.4l-.513 2.053a.636.636 0 0 0 .167.604L8.65 9.654a.636.636 0 0 0 .604.167l2.052-.513a1.636 1.636 0 0 1 1.401.296l2.162 1.681c.777.604.849 1.753.153 2.448l-.97.97c-.693.693-1.73.998-2.697.658a17.47 17.47 0 0 1-6.571-4.144A17.47 17.47 0 0 1 .639 4.646c-.34-.967-.035-2.004.658-2.698l.97-.969z"/>
+          </svg>
+        <H2>099222264</H2>    
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    </div>
+  </div>
+</header>
+
+<main role="main">
+  <div class="album py-5 bg-black">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm ">
+            <img src="img/w222.jpg" width="100%" height="200">
+            <div class="card-body">
+              <p class="card-text">Մեքենայի թափքի փայլեցում և կերամիկապատում:<br>Ultra & SystemX</br></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><a href="w222.html">Տեսնել</a></button>            
+                </div>
+                <small class="text-muted"> MERCEDES S500 W222</small>
+              </div>
+            </div>
+          </div>
+        </div>  
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm ">
+            <img src="img/amg3.jpg" width="100%" height="200">
+            <div class="card-body">
+              <p class="card-text">Մեքենայի թափքի թաղանթապատում գունավոր թաղանթներով։<br>Hexis-France</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><a href="gts.html">Տեսնել</a></button>
+                </div>
+                <small class="text-muted">MERCEDES AMG GTS</small>
+              </div>
+            </div>
+          </div>
+        </div> 
+        
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img src="img/lx570.jpg" width="100%" height="200">
+            <div class="card-body">
+              <p class="card-text">Մեքենայի թափքի պաշտպանիչ թաղանթապատում:<br>BODYFENCE</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><a href="lx.html">Տեսնել</a></button>         
+                </div>
+                <small class="text-muted">LEXUS LX 570 BLACK VISION</small>
+              </div>
+            </div>
+          </div>
+        </div>        
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img src="img/lambo.jpg" width="100%" height="200">
+            <div class="card-body">
+              <p class="card-text">Մեքենայի թափքի գունավոր թաղանթապատում:(HEXIS GRAPHICS)</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><a href="hexis.html">Տեսնել</a></button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div> 
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img src="img/q72.jpg" width="100%" height="200">
+            <div class="card-body">
+              <p class="card-text">Մեքենայի թափքի փայլեցում:<br>(RUPES KOCH)</br></p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><a href="q7.html">Տեսնել</a></button>            
+                </div>
+                <small class="text-muted"> AUDI Q7</small>
+              </div>
+            </div>
+          </div>
+        </div>  
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img src="img/bodyfence.jpg" width="100%" height="200">
+            <div class="card-body">
+              <p class="card-text">Մեքենայի թափքի պաշտպանիչ թաղանթապատում:(BODYFENCE)</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary"><a href="bodyfence.html">Տեսնել</a></button>         
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>        
+     
+</main>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="Arman.html">Գլխավոր էջ</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="carlife.html">Նկարներ <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="Arman2.html">Տեսանյութեր</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link " href="kap.html" tabindex="-1" aria-disabled="true">Մեր մասին</a>
+      </li>
+    </ul>
+    </form>
+  </div>
+</nav>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.js"></script></body>
+
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+      
+
+
+
+      </html>
