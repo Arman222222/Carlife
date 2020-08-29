@@ -1,0 +1,36 @@
+//join
+const elements = ['bmw','audi',"kia"];
+console.log(elements.join());
+console.log(elements.join(''));
+console.log(elements.join('-'));
+
+//reverse
+const array1 = ['men','girl','dad'];
+const reversed = array1.reverse();
+console.log('reversed:', reversed);
+console.log('array1:', array1);
+
+//indexof
+var array = [8, 22, 55];
+array.indexOf(8);
+array.indexOf(22,55);
+console.log(array)
+
+//concat
+const array8 = ['a','b','c'];
+const array9 = ['d','e','f'];
+const array10 = array8.concat(array9);
+console.log(array10);
+
+//slice
+const cars = ['bmw','mers','audi','opel','nissan'];
+console.log(cars.slice(2));
+console.log(cars.slice(2,4));
+console.log(cars.slice(1,5));
+
+//fill
+const array11 = [1,2,3,4];
+console.log(array11.fill(0,2,4));
+console.log(array11.fill(5,1));
+console.log(array11.fill(6));
+ 
